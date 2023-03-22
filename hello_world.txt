@@ -1,0 +1,2 @@
+this is Hello World text file for my Git Project.
+Hope the new journey going to be very interesting.
